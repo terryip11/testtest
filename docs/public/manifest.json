@@ -1,0 +1,37 @@
+{
+  "name": "圖片收集站",
+  "short_name": "圖片收集",
+  "description": "掃描QR碼收集圖片，集滿8張即可獲得驚喜合成圖片！",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6e8efb",
+  "theme_color": "#a777e3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/android/android-launchericon-72-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android/android-launchericon-96-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android/android-launchericon-144-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android/android-launchericon-192-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
